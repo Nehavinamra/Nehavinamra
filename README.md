@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi there 👋</h1>
 <h3 align="center">I am Neha, a passionate Software Developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/4aa77ea32aa4d7be626e833b160f3d8923c133cd32c34fefbdc43c8abfcff710/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323730343431342f73637265656e73686f74732f373436363930332f6d656469612f62303861623537363331366264343538326665663138396634373163643965352e676966">
+<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 - 🔭 I’m currently pursuing Master's in Computer science from **Indiana University Bloomington**
 - 🌱 Love to learn new Tech and Frameworks
