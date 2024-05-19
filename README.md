@@ -10,6 +10,9 @@
 - ⚡ Fun fact: I am a music lover
 - 📫 How to reach me: **vinamraneha@gmail.com**
 
+  
+ ![](https://komarev.com/ghpvc/?username=Nehavinamra&color=blueviolet)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/neha-vinamra" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neha-vinamra" height="30" width="40" /></a>
