@@ -1,7 +1,7 @@
 ![github-header-image](https://github.com/Nehavinamra/Nehavinamra/assets/117757294/948bed0c-af3a-48c7-a1ff-0b778c0c98ab)
 
 <h1 align="center">Hi there 👋</h1>
-<h3 align="center">I am Neha, a passionate Software Developer from India</h3>
+<h3 align="center">I am Neha, a passionate Software Developer in United States</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/59734313/157189039-c09b3e38-9f42-42c0-ab54-14f1574190a7.gif">
 
 - 🔭 I’m currently pursuing Master's in Computer science from **Indiana University Bloomington**
