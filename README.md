@@ -9,6 +9,7 @@
 - 💬 Ask me about Python, React , Java, MySQL..
 - ⚡ Fun fact: I am a music lover
 - 📫 How to reach me: **vinamraneha@gmail.com**
+- 💬 Know more about at: https://nehavinamra.github.io/Neha_profile/
 
   
  ![](https://komarev.com/ghpvc/?username=Nehavinamra&color=blueviolet)
